@@ -1,0 +1,7 @@
+.info {
+    color: rgb(128, 32, 52);
+    background-color: bisque;
+
+}
+img {border: 5px groove black; width: 500px; height: 400px; display: block;
+margin-left: auto; margin-right: auto;}
