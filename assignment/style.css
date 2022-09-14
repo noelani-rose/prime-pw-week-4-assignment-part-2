@@ -1,18 +1,17 @@
 .info {
     color: rgb(128, 32, 52);
     background-color: bisque;
+    text-align: center;
+    font-style: oblique;
 
 }
 h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-h2{
-    font-style: oblique;
-
-}
 h3{
     color:rgb(130, 98, 19);
     background-color:rgb(4, 153, 153); 
+    text-align: center;
 }
 img {border: 5px groove black; width: 500px; height: 400px; display: block;
 margin-left: auto; margin-right: auto;}
